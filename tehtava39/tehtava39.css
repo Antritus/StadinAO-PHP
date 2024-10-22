@@ -1,0 +1,55 @@
+.tehtava-39 input[type=text].lomake1, .tehtava-39 input[type=email].lomake1, .tehtava-39 select, .tehtava-39 textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.tehtava-39 textarea {
+	height: 250px;
+}
+.tehtava-39 input[type=submit].lomake1 {
+    width: 100%;
+    background-color: #638d9d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+.tehtava-39 input[type=submit].lomake1:hover {
+    background-color: #6fa6bc;  
+  }
+.tehtava-39 .tausta1 {
+  border: 2px solid #436d7e;
+      border-radius: 7px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+.tehtava-39 .tausta1 {
+  border: 2px solid #436d7e;
+      border-radius: 7px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+.xfile {
+  border: 2px solid #436d7e;
+      border-radius: 7px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 100%;
+}
+
+.xfile .email {
+	color: darkblue;
+	font-weight: bold;
+}
+.xfile .name {
+	color: darkred;
+	font-weight: bold;
+}

@@ -1,0 +1,38 @@
+.tehtava-1 {
+	color: red;
+}
+.tehtava-2 {
+	color: green;
+}
+.tehtava-2 h1 {
+	color: red;
+}
+.tehtava-3 {
+	color: white;
+}
+.tehtava-3 .value {
+	font-size: 4px;
+	color: maroon;
+}
+.tehtava-4 {
+	color: pink
+}
+.tehtava-4 .value {
+	color: maroon;
+	font-size: 25px;
+}
+.tehtava-5 {
+	color: maroon;
+}
+.tehtava-5 .value {
+	color: white;
+}
+.tehtava-6 {
+	color: black;
+}
+.tehtava-6 .value {
+  font-family: "Reddit Sans Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}

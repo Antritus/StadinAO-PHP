@@ -1,0 +1,36 @@
+textarea {
+  width: 100%;
+  height: 500px;
+  resize: none;
+  border-radius: 10px;
+  border: solid #b1ff43 5px;
+  margin-bottom: 5px;
+}
+#convert {
+  border-color: #fb2323;
+}
+
+textarea:focus {
+  outline: none !important;
+  border: 1px solid #9bff10;
+}
+
+#convert:focus {
+  border: 1px solid #fb2323;
+}
+
+button {
+  width: 100%;
+  height: 40px;
+  color: black;
+  background-color: white;
+  border: 4px solid;
+  border-radius: 10px;
+  border-color: #b1ff43;
+  margin-bottom: 5px;
+  font-size: large;
+}
+
+button:hover {
+  background-color: #b1ff43;
+}

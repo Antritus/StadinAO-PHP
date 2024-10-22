@@ -1,0 +1,51 @@
+.tehtava-37 input[type=number], .tehtava-37 select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.tehtava-37 input[type=submit] {
+  width: 100%;
+  background-color: #638d9d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tehtava-37 input[type=submit]:hover {
+  background-color: #6fa6bc;
+}
+
+.tehtava-37 {
+	width: 25%;
+	border-radius: 7px;
+  border-radius: 5px;
+  border: 2px solid #436d7e;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.tehtava-37 #Rkok {
+	color: darkblue;
+	font-weight: bold;
+}
+
+.tehtava-37 input:focus::placeholder {  color: transparent; }
+.tehtava-37 input:focus::-webkit-input-placeholder { color:transparent; }
+.tehtava-37 input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+.tehtava-37 input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+.tehtava-37 input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
+
+.tehtava-37 input::-webkit-outer-spin-button,
+.tehtava-37 input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.tehtava-37 input[type=number] {  -moz-appearance: textfield;}
